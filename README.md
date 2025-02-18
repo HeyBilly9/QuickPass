@@ -7,3 +7,5 @@ Download and run the Python script, then QuickPass will do the rest!
 ## Features
 ### Encrypted Password Storage
 QuickPass saves your passwords encrypted in a file on your device.
+### Updates
+QuickCalc is still being updated, with new features, fixes, and improvements being added. QuickCalc also automatically checks for updates and notifies you if there is a new one available.
